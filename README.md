@@ -3,7 +3,7 @@ Este proyecto utiliza el conjunto de datos "Adult" de UCI Machine Learning Repos
 
 # Configuración y Preparación de Datos
 
-Importar bibliotecas necesarias: pandas, sklearn, xgboost.
+* Importar bibliotecas necesarias: pandas, sklearn, xgboost.
 
 * Configurar la URL de los datos.
 
