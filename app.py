@@ -78,7 +78,6 @@ print(y_test.value_counts(normalize=True))
 print("Información del conjunto de datos:")
 print(data.info())
 
-# %%
 print("\nResumen estadístico del conjunto de datos:")
 print(data.describe())
 
